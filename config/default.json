@@ -1,8 +1,9 @@
 
 {
-    "appSecret": "6696550b28a2cc0865fd47913777366e",
-    "pageAccessToken": "EAAcC1pZAhj6QBAHwu8WFnMZCgL88ZBQsftZCgZAQxu71nLpQg7f4IpBbZCOoZAUY40yeNlKRqmzQUD8LsFJwX7Q5mNbXsqZBFhVcHZBSZBvzBlpfckWL3cfRhRIOUGJCdhu4jqZCQxHtln9PEE77GqacGZBcdu25AznnyB2Kf7Hyk4XyTQZDZD",
+    "appSecret": "899a1e7b30edb84c9ee69ddbda38365e",
+    "pageAccessToken": "EAAaZBCFW0d94BAEsLdZCHFh3vZABPvsYptdROGEZCl2s9ReZCqffFgntDXupTwyZAXbjWFwTZBObNnBkBi8Xw92wpt6gVZALMLMfKX1tUZBdvfx48tA12b3ixx0rUc4ekZC5dmlZAM70L0VMwteAIHusjOAdSKN2ZCQIECbyZAhmvseKkvAZDZD",
     "validationToken": "some_messenger_app_token_abc",
-    "serverURL": "https://testmessengerbot-anix86.c9users.io/"
+    "serverURL": "https://gopi-chatbot-gopi28.c9users.io/"
 }
+
 
