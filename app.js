@@ -122,8 +122,8 @@ function receivedMessage(event) {
       case 'hi':
         messageText = "Hi " + "Gopinath!!";
         break;
-      case 'How are you?':
-        messageText = "I'm fine dear, how about you?";
+      case 'how are you?':
+        messageText = "I'm fine thank you! How about you? And how things going?";
         break;
       case 'type'  :
         messageText = "List here is type of insurance... 1) Auto Insurance 2) Life Insurance type the number to know more";
