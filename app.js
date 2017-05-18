@@ -119,11 +119,11 @@ function receivedMessage(event) {
   if (messageText) {
     
     switch (messageText) {
-      case 'Hi':
-        messageText = "Hi " + "Aneesh!!";
+      case 'hi':
+        messageText = "Hi " + "Gopinath!!";
         break;
-      case 'get insurance details':
-        messageText = "We will get you information shortly";
+      case 'How are you?':
+        messageText = "I'm fine dear, how about you?";
         break;
       case 'type'  :
         messageText = "List here is type of insurance... 1) Auto Insurance 2) Life Insurance type the number to know more";
