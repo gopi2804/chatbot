@@ -3,7 +3,7 @@
     "appSecret": "899a1e7b30edb84c9ee69ddbda38365e",
     "pageAccessToken": "EAAaZBCFW0d94BAEsLdZCHFh3vZABPvsYptdROGEZCl2s9ReZCqffFgntDXupTwyZAXbjWFwTZBObNnBkBi8Xw92wpt6gVZALMLMfKX1tUZBdvfx48tA12b3ixx0rUc4ekZC5dmlZAM70L0VMwteAIHusjOAdSKN2ZCQIECbyZAhmvseKkvAZDZD",
     "validationToken": "some_messenger_app_token_abc",
-    "serverURL": "https://gopi-chatbot-gopi28.c9users.io/"
+    "serverURL": "https://gopi-chatbot.herokuapp.com/"
 }
 
 
