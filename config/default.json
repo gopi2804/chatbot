@@ -1,7 +1,7 @@
 
 {
-    "appSecret": "899a1e7b30edb84c9ee69ddbda38365e",
-    "pageAccessToken": "EAAaZBCFW0d94BAEsLdZCHFh3vZABPvsYptdROGEZCl2s9ReZCqffFgntDXupTwyZAXbjWFwTZBObNnBkBi8Xw92wpt6gVZALMLMfKX1tUZBdvfx48tA12b3ixx0rUc4ekZC5dmlZAM70L0VMwteAIHusjOAdSKN2ZCQIECbyZAhmvseKkvAZDZD",
+    "appSecret": "4e36023e4dd6bb7bc23c5caf41aec15a",
+    "pageAccessToken": "EAAGL6AJ4iTsBACGl3JplQklr2yvZBOGgwUwmCZAZAsuLitloMSnh7ZCJJnEuJvtr2fWUxWvO4oMMtkLo8ZBjngOHXY6VB9Wzp7Az53oen8ZAg0Me7ItlO0p6ATcsgSDDJDf8BQOpqp3Bv3Vm0aZBfFxpI9YYYo4PszzQlFevVg2BAZDZD",
     "validationToken": "some_messenger_app_token_abc",
     "serverURL": "https://gopi-chatbot.herokuapp.com/"
 }
