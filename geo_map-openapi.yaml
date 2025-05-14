@@ -1,0 +1,8 @@
+openapi: 3.0.0
+info:
+  title: Geo Map
+  description: |
+    geo id, geo key, location, zone, district, state
+    Context: I want to fetch all the fixture details using geokey
+  version: 1.0.0
+paths: {}
